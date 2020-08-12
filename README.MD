@@ -83,9 +83,9 @@ export  $initHighlight;
 ```
 # Tablas
 | Nombre | Apellido | Documento |
-|-----|-----|------|-------|
-|Luis|Mora|98779789|
-|Jessica|Villamil|98779789|
+| ----- | ----- | ------ | ------- |
+| Luis | Mora | 98779789 |
+| Jessica | Villamil | 98779789 |
 
 # Citas
 Esto es un texto referente a una cita que pondremos debajo: 
