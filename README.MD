@@ -81,3 +81,33 @@ function $initHighlight(block, cls) {
 }
 export  $initHighlight;
 ```
+# Tablas
+| Nombre | Apellido | Documento |
+|-----|-----|------|-------|
+|Luis|Mora|98779789|
+|Jessica|Villamil|98779789|
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo: 
+>Esto es una cita, recordar dejar doble espacio despues de esta línea
+
+Para que quede el espacio en la vista de esta forma
+
+# Líneas divisorias horizontales 
+Esto es un te xto que serpa dividio por guiones medios (debe existir un espeacio entre el texto y las tres lineas que general la línea divisoria) 
+
+---
+Esto es otro texto dividido por asteriscos (debe existir un espeacio entre el texto y los tres asteriscos que generan la línea divisoria)
+
+***
+Esto es otro texto dividido por guiones bajos (debe existir un espeacio entre el texto y los tres guiones bajos que generan la línea divisoria)
+
+___
+
+# Saltos de línea 
+Esto es un párrafo.
+
+Esto es otro párrafo. 
+
+Debemos tener e ecuenta que para que se vea el salto de línea se debe dejar un doble espacion entre los párrafos a separar.
+
