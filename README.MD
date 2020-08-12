@@ -83,7 +83,7 @@ export  $initHighlight;
 ```
 # Tablas
 | Nombre | Apellido | Documento |
-| ----- | ----- | ------ | ------- |
+| ------ | -------- | --------- |
 | Luis | Mora | 98779789 |
 | Jessica | Villamil | 98779789 |
 
